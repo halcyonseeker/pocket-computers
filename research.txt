@@ -1,9 +1,0 @@
-Research
-
-- Raspberry Pi 
-	https://wwww.instructables.com/id/Design-Your-Own-Raspberry-Pi-Compute-Module-PCB/
-
-- Pocket Chip
-	https://hackernoon.com/turn-your-pocketchip-into-a-badass-on-the-go-hardware-hackers-terminal-84b1edc939f
-
-- PiPhone
