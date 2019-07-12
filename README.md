@@ -1,2 +1,2 @@
 # pocket-computers
-Information relating to existing and DIY handheld GNU/Linux computers and phones 
+Information relating to existing and DIY handheld GNU/Linux and open-source computers and phones 

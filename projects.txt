@@ -1,0 +1,11 @@
+Existing Portable Computers
+
+- Clockwork Pi
+	www.clockworkpi.com
+	A small, modular gaming console based on open source hardware and 
+	software.
+
+- Pocket Chip
+	A discontinued handheld linux terminal based on the Chip SBC. A 
+	modular design and sub $100 cost have lead to a vibrant community 
+	of modders.
