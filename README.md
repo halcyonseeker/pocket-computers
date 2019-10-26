@@ -19,7 +19,8 @@ Information relating to existing and DIY handheld GNU/Linux and open-source hand
 
 # General Resources
 + [PiPhone Github repository](https://github.com/climberhunt/PiPhone)
-+ [Design Your Own Raspberry Pi Compute Module PCB](https://wwww.instructables.com/id/Design-Your-Own-Raspberry-Pi-Compute-Module-PCB/) An intruiging
++ [Design Your Own Raspberry Pi Compute Module PCB](https://wwww.instructables.com/id/Design-Your-Own-Raspberry-Pi-Compute-Module-PCB/) It could be interesting to try and base a phone of the Raspberry Pi compute module, or a similar device that does't require proprietary blobs to boot.
++ [tinkerphones](http://www.tinkerphones.org) 
 
 # Existing Hardware and Software
 + [Clockwork Pi](https://www.clockworkpi.com) A small, modular, DIY gaming console based on open source hardware and software.
