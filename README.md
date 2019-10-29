@@ -35,5 +35,4 @@ Information relating to existing and DIY handheld GNU/Linux and open-source hand
 + [Pocket Chip](http://www.chip-community.org/index.php/Main_Page) A compact-ish, expandible housing for the now-discontinued Chip single board computer.
 + [Ubuntu Touch](https://ubports.com/community/about-the-community) The community-run successor to Canonical's failed mobile GNU/Linux distribution.
 + [Sony Xperia and Sailfish OS](https://together.jolla.com/question/180109/announcement-community-sony-xperia-x-compact-release/) Sailfish OS a GNU/Linux based operating system that's been ported to run on some of the Sony Xperia phones. Unfortunately it contains a significant amount of proprietary software. 
-
-
++ [Raspberry Pi Handheld](https://0x0f0f0f.github.io/posts/2019/08/building-a-raspberry-pi-3b-full-keyboard-handheld.-part-1/) A similar project.
